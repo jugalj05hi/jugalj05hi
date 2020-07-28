@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style='position:relative; padding-bottom:calc(50.46% + 44px)'><iframe src='https://gfycat.com/ifr/IdioticIllfatedIchthyosaurs' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+<img src="https://gfycat.com/ifr/IdioticIllfatedIchthyosaurs">
+
