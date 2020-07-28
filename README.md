@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+(https://github.com/jugalj05hi/jugalj05hi/raw/master/tt.gif)
+
 <!--
 **jugalj05hi/jugalj05hi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,4 +20,3 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://media.giphy.com/media/VFNWtU2A6QJP1IvOtT/giphy.gif" width="600" height="600>
