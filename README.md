@@ -1,6 +1,8 @@
 
 
 ![](https://github.com/jugalj05hi/jugalj05hi/blob/master/GIF7.gif)
+
+<img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 <!--
 **jugalj05hi/jugalj05hi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
