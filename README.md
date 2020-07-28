@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 ![](https://github.com/jugalj05hi/jugalj05hi/blob/master/GIF7.gif)
 <!--
