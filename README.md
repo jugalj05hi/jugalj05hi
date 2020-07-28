@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![Alt Text](https://media.giphy.com/media/VFNWtU2A6QJP1IvOtT/giphy.gif =600x600)
 
+
+<img src="https://media.giphy.com/media/VFNWtU2A6QJP1IvOtT/giphy.gif" width="600" height="600>
