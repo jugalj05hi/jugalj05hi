@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github.com/jugalj05hi/jugalj05hi/blob/master/GIF4.gif)
+![](https://github.com/jugalj05hi/jugalj05hi/blob/master/GIF5.gif)
 <!--
 **jugalj05hi/jugalj05hi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
