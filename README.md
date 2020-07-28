@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-<img src="https://media.giphy.com/media/PjZsfpC8iELzbR8Viy/giphy.gif">
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 <!--
 **jugalj05hi/jugalj05hi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
