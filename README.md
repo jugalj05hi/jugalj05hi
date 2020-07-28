@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://media.giphy.com/media/VFNWtU2A6QJP1IvOtT/giphy.gif">
+
 
 ![gif from nerdy.dev](https://github.com/jugalj05hi/jugalj05hi/master/gif2.gif?raw=true)
 <!--
