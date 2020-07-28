@@ -2,8 +2,8 @@
 
 ![](https://github.com/jugalj05hi/jugalj05hi/blob/master/GIF7.gif)
 <p align="center">
-  You're Visitor Number # <br/>
-🚀<img src="https://profile-counter.glitch.me/jugalj05hi/count.svg" />
+  You're Visitor Number 🚀 <br/>
+<img src="https://profile-counter.glitch.me/jugalj05hi/count.svg" />
  </p>
 <!--
 **jugalj05hi/jugalj05hi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
