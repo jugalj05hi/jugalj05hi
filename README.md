@@ -3,7 +3,7 @@
 ### `👨🏻‍💻 Jugal Joshi` |  `📍 United States 🇺🇸` 
 <!--<a href="https://www.linkedin.com/in/jugalj05hi/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a> -->
 
-
+<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg">
 
 
 ![](https://github.com/jugalj05hi/jugalj05hi/blob/master/GIF7.gif)
