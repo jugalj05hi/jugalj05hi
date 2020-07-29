@@ -1,6 +1,6 @@
 
 # 🌎 Hello World!
-` 👨‍💻 Jugal Joshi` |  `📍 United States 🇺🇸` | <a href="https://www.linkedin.com/in/jugalj05hi/"><img src="https://img.icons8.com/color/50/000000/linkedin.png"/> alt="html logo"/></a>
+` 👨‍💻 Jugal Joshi` |  `📍 United States 🇺🇸` | <a href="https://www.linkedin.com/in/jugalj05hi/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 
 
 
