@@ -1,5 +1,10 @@
 
-# 👨‍💻 Hello World!
+# 🌎 Hello World!
+` 👨‍💻 Jugal Joshi` |  `📍 United States🇺🇸` | <img src="https://raw.githubusercontent.com/saiemsaeed/saiemsaeed/master/linkedin-icon.png" width="15" height="15" alt="html logo"/> `linkedin.com/in/jugalj05hi/`
+
+
+
+
 ![](https://github.com/jugalj05hi/jugalj05hi/blob/master/GIF7.gif)
 <p align="center">
   You're Visitor Number 🚀 <br/>
