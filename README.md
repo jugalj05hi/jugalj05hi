@@ -30,9 +30,9 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" class="rounded-1 mr-3" width="64" height="64" alt="npm">
 
 ## 📫 Get in touch 
-`<a href="https://www.linkedin.com/in/jugalj05hi"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a>`
-
-`<a href="https://twitter.com/jugalj05hi"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" height="64" width="64"></a>
+<a href="https://www.linkedin.com/in/jugalj05hi"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a>
+ | 
+<a href="https://twitter.com/jugalj05hi"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" height="64" width="64"></a>
 <p align="center">`
   You're Visitor Number 🚀 <br/>
 <img src="https://profile-counter.glitch.me/jugalj05hi/count.svg" />
