@@ -8,7 +8,6 @@
 
 ![](https://github.com/jugalj05hi/jugalj05hi/blob/master/GIF7.gif)
 
- <br/>
  # ⌨️ Tech Stack I Jam On
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="64" height="64" alt="html logo">         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="64" height="64" alt="css logo">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="64" height="64" alt="sass logo">
