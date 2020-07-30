@@ -9,7 +9,6 @@
 ![](https://github.com/jugalj05hi/jugalj05hi/blob/master/GIF7.gif)
 
  # ⌨️ Tech Stack I Jam On
- <br/>
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="64" height="64" alt="html logo">         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="64" height="64" alt="css logo">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="64" height="64" alt="sass logo">
  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="64" height="64" alt="javascript logo">
@@ -43,7 +42,7 @@
  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="64" height="64" alt="java logo">
  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="64" height="64" alt="python logo">
 
-
+<br/>
 # 📫 Get in touch 
 <a href="https://www.linkedin.com/in/jugalj05hi"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"/></a>
 <a href="https://twitter.com/jugalj05hi"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" height="48" width="48"/></a>
