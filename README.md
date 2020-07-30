@@ -42,7 +42,7 @@
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="64" height="64" alt="Heroku logo">
  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="64" height="64" alt="java logo">
  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="64" height="64" alt="python logo">
- <br/>
+
 
 # 📫 Get in touch 
 <br/>
