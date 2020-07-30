@@ -42,7 +42,7 @@
  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="64" height="64" alt="java logo">
  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="64" height="64" alt="python logo">
 
-<br/>
+
 # 📫 Get in touch 
 <a href="https://www.linkedin.com/in/jugalj05hi"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"/></a>
 <a href="https://twitter.com/jugalj05hi"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" height="48" width="48"/></a>
