@@ -32,11 +32,13 @@
  <img src="https://camo.githubusercontent.com/d9fabaa3d3e4b2c96a90fff907e9f29d855044c2/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f64656e6f2e737667" width="64" height="64" alt="Deno">
  <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" class="rounded-1 mr-3" width="64" height="64" alt="npm">
  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="64" height="64" alt="Spring logo">
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="64" height="64" alt="Bash logo">
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="64" height="64" alt="git logo">
  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="64" height="64" alt="Jenkins logo">
  <img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" class="rounded-1 mr-3" width="64" height="64" alt="aws">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" class="rounded-1 mr-3" width="64" height="64" alt="docker"> 
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="64" height="64" alt="Firebase logo">
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="64" height="64" alt="Heroku logo">
  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="64" height="64" alt="java logo">
  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="64" height="64" alt="python logo">
  
