@@ -30,6 +30,7 @@
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="64" height="64" alt="MongoDB logo">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" class="rounded-1 mr-3" width="64" height="64" alt="typescript">
  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" class="rounded-1 mr-3" width="64" height="64" alt="nodejs">
+ <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="64" height="64" alt="express">
  <img src="https://camo.githubusercontent.com/d9fabaa3d3e4b2c96a90fff907e9f29d855044c2/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f64656e6f2e737667" width="64" height="64" alt="Deno">
 <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" class="rounded-1 mr-3" width="64" height="64" alt="npm">
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="64" height="64" alt="Spring logo">
