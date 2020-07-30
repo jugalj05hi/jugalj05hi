@@ -9,7 +9,7 @@
 ![](https://github.com/jugalj05hi/jugalj05hi/blob/master/GIF7.gif)
 
  
- ## Tech Stack in Jam On
+ ## ⌨️ Tech Stack in Jam On
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="64" height="64" alt="html logo"/>         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="64" height="64" alt="css logo">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="64" height="64" alt="sass logo">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="64" height="64" alt="javascript logo">
@@ -31,9 +31,9 @@
 
 ## 📫 Get in touch 
 <a href="https://www.linkedin.com/in/jugalj05hi"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a>
- | 
+
 <a href="https://twitter.com/jugalj05hi"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" height="64" width="64"></a>
-<p align="center">`
+<p align="center">
   You're Visitor Number 🚀 <br/>
 <img src="https://profile-counter.glitch.me/jugalj05hi/count.svg" />
  </p>
