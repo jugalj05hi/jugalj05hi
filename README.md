@@ -26,6 +26,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" class="rounded-1 mr-3" width="64" height="64" alt="jquery">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/homebrew/homebrew.png" class="rounded-1 mr-3" width="64" height="64" alt="homebrew">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" class="rounded-1 mr-3" width="64" height="64" alt="sql">
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="64" height="64" alt="Postgressql logo">
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="64" height="64" alt="MongoDB logo">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" class="rounded-1 mr-3" width="64" height="64" alt="typescript">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" class="rounded-1 mr-3" width="64" height="64" alt="nodejs">
