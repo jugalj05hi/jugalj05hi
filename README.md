@@ -10,7 +10,6 @@
 
  
  # ⌨️ Tech Stack in Jam On
- <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="64" height="64" alt="java logo">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="64" height="64" alt="html logo">         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="64" height="64" alt="css logo">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="64" height="64" alt="sass logo">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="64" height="64" alt="javascript logo">
@@ -29,6 +28,7 @@
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" class="rounded-1 mr-3" width="64" height="64" alt="nodejs">
  <img src="https://camo.githubusercontent.com/d9fabaa3d3e4b2c96a90fff907e9f29d855044c2/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f64656e6f2e737667" width="64" height="64" alt="Deno">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" class="rounded-1 mr-3" width="64" height="64" alt="npm">
+ <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="64" height="64" alt="java logo">
 
 # 📫 Get in touch 
 <a href="https://www.linkedin.com/in/jugalj05hi"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"/></a>
