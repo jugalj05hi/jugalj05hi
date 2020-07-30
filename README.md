@@ -36,6 +36,7 @@
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="64" height="64" alt="Spring logo">
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="64" height="64" alt="git logo">
  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="64" height="64" alt="java logo">
+ <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="64" height="64" alt="Jenkins logo">
  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="64" height="64" alt="python logo">
  
 
