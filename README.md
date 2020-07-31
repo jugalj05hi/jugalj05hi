@@ -37,6 +37,7 @@
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="64" height="64" alt="git logo">
  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="64" height="64" alt="Jenkins logo">
  <img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" class="rounded-1 mr-3" width="64" height="64" alt="aws">
+ <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" class="rounded-1 mr-3" width="64" height="64" alt="Kubernetes"> 
  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" class="rounded-1 mr-3" width="64" height="64" alt="docker"> 
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="64" height="64" alt="Firebase logo">
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="64" height="64" alt="Heroku logo">
