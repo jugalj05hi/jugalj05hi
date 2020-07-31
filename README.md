@@ -44,7 +44,7 @@
 
 
 # 📫 Get in touch 
-<a href="https://www.linkedin.com/in/jugalj05hi"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/></a>
+<a href="https://www.linkedin.com/in/jugalj05hi"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="48" width="48"/></a>
 <a href="https://twitter.com/jugalj05hi"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" height="48" width="48"/></a>
 <p align="center">
   You're Visitor Number 🚀 <br/>
