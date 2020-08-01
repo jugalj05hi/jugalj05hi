@@ -51,10 +51,9 @@
  
 
 ## Master of Science, Computer Science | 2019-2021
-<img src="https://sciencesprings.files.wordpress.com/2020/03/northeastern-universitylogo.png?w=1248" width="320"/>
+<a href="https://www.northeastern.edu/"><img src="https://sciencesprings.files.wordpress.com/2020/03/northeastern-universitylogo.png?w=1248" width="320"/></a>
  <br/>
- <br/>
- <br/>
+ 
  
 
 
