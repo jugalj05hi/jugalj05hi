@@ -44,6 +44,13 @@
  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="64" height="64" alt="java logo">
  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="64" height="64" alt="python logo">
 
+# 📚 Alma mater 
+
+<h2>
+<a href="https://www.srmist.edu.in/" target="_blank"><img src="https://vectorlogoseek.com/wp-content/uploads/2019/03/srm-institute-of-science-and-technology-vector-logo.png" width="120"  /></a>
+Bachelor of Technology, Computer Science </h2>
+ 
+
 
 # 📫 Get in touch 
 <a href="https://www.linkedin.com/in/jugalj05hi"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="48" width="48"/></a>
