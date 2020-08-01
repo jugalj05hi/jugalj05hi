@@ -46,9 +46,13 @@
 
 # 📚 Alma mater 
 
-<h2>
-<a href="https://www.srmist.edu.in/" target="_blank"><img src="https://vectorlogoseek.com/wp-content/uploads/2019/03/srm-institute-of-science-and-technology-vector-logo.png" width="120"  /></a>
-Bachelor of Technology, Computer Science </h2>
+### Bachelor of Technology, Computer Science | 2014-2018
+  <a href="https://www.srmist.edu.in/" target="_blank"><img src="https://vectorlogoseek.com/wp-content/uploads/2019/03/srm-institute-of-science-and-technology-vector-logo.png" width="250"  /></a>
+  <span> 
+
+### Master of Science, Computer Science | 2019-2021
+<img src="https://sciencesprings.files.wordpress.com/2020/03/northeastern-universitylogo.png?w=1248" width="320"/>
+
  
 
 
