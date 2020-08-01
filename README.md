@@ -8,7 +8,7 @@
 
 ![](https://github.com/jugalj05hi/jugalj05hi/blob/master/GIF7.gif)
 
- # ⌨️ Tech Stack I Jam On
+ # `⌨️ Tech Stack I Jam On`
 
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="64" height="64" alt="html logo">         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="64" height="64" alt="css logo">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="64" height="64" alt="sass logo">
@@ -46,17 +46,19 @@
 
 # 📚 `Alma mater `
 
-### Bachelor of Technology, Computer Science | 2014-2018
+## Bachelor of Technology, Computer Science | 2014-2018
   <a href="https://www.srmist.edu.in/" target="_blank"><img src="https://vectorlogoseek.com/wp-content/uploads/2019/03/srm-institute-of-science-and-technology-vector-logo.png" width="250"  /></a>
  
 
-### `Master of Science, Computer Science | 2019-2021`
+## Master of Science, Computer Science | 2019-2021
 <img src="https://sciencesprings.files.wordpress.com/2020/03/northeastern-universitylogo.png?w=1248" width="320"/>
-
+ <br/>
+ <br/>
+ <br/>
  
 
 
-# 📫 Get in touch 
+# `📫 Get in touch` 
 <a href="https://www.linkedin.com/in/jugalj05hi"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="48" width="48"/></a>
  &nbsp;&nbsp;<a href="https://twitter.com/jugalj05hi"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" height="48" width="48"/></a>
 <p align="center">
