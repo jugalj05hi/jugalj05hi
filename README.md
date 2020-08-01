@@ -43,7 +43,8 @@
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="64" height="64" alt="Heroku logo">
  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="64" height="64" alt="java logo">
  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="64" height="64" alt="python logo">
-
+<br/>
+<br/>
 # 📚 `Alma mater `
 
 ## Bachelor of Technology, Computer Science | 2014-2018
@@ -52,7 +53,8 @@
 
 ## Master of Science, Computer Science | 2019-2021
 <a href="https://www.northeastern.edu/"><img src="https://sciencesprings.files.wordpress.com/2020/03/northeastern-universitylogo.png?w=1248" width="320"/></a>
- <br/>
+<br/>
+<br/>
  
  
 
