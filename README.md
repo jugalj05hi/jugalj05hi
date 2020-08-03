@@ -51,7 +51,7 @@
   <a href="https://www.srmist.edu.in/" target="_blank"><img src="https://vectorlogoseek.com/wp-content/uploads/2019/03/srm-institute-of-science-and-technology-vector-logo.png" width="250"  /></a>
  
 
-## Master of Science, Computer Science | 2019-Present
+## Master of Science, Computer Science | 2019-2021
 <a href="https://www.northeastern.edu/"><img src="https://sciencesprings.files.wordpress.com/2020/03/northeastern-universitylogo.png?w=1248" width="320"/></a>
 <br/>
 <br/>
