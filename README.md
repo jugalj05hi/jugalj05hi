@@ -66,7 +66,7 @@
 
 <p align="center">
  <img alt="Jugal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jugalj05hi&show_icons=true&hide_border=true" /> 
-  You're Visitor Number 🚀 <br/>
+  <br/>You're Visitor Number 🚀 <br/>
 <img src="https://profile-counter.glitch.me/jugalj05hi/count.svg" />
  </p>
 
