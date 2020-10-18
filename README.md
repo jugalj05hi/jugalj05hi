@@ -62,10 +62,10 @@
 # 📫 `Get in touch` 
 <a href="https://www.linkedin.com/in/jugalj05hi"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="48" width="48"/></a>
  &nbsp;&nbsp;<a href="https://twitter.com/jugalj05hi"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" height="48" width="48"/></a>
- <p align="center">
-<img alt="Jugal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jugalj05hi&show_icons=true&hide_border=true" /> 
-</p>
+
+
 <p align="center">
+ <img alt="Jugal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jugalj05hi&show_icons=true&hide_border=true" /> 
   You're Visitor Number 🚀 <br/>
 <img src="https://profile-counter.glitch.me/jugalj05hi/count.svg" />
  </p>
