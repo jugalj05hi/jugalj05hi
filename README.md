@@ -65,8 +65,7 @@
 
 
 <p align="center">
- <img align="left" alt="Jugal's" src="https://github-readme-stats.vercel.app/api?username=jugalj05hi&show_icons=true&hide_border=true" /> 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jugalj05hi&layout=compact" alt="jugalj05hi" /></p>
+ <img alt="Jugal's" src="https://github-readme-stats.vercel.app/api?username=jugalj05hi&show_icons=true&hide_border=true" /> 
   <br/>You're Visitor Number 🚀 <br/>
 <img src="https://profile-counter.glitch.me/jugalj05hi/count.svg" />
  </p>
